@@ -11,8 +11,8 @@ image_metadata:
   image-alt: Disguised by the mask of Guy Fawkes, the Anonymous Hacker peers at his
     laptop screen through black glasses.
 learning_resource_types: []
-ocw_type: OCWImage
 resourcetype: Image
 title: Anonymous Hacker
+type: OCWImage
 uid: 5302d662-fbd3-6bb6-7689-90eec70b6680
 ---

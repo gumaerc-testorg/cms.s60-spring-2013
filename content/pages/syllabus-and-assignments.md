@@ -1,8 +1,8 @@
 ---
 content_type: page
 learning_resource_types: []
-ocw_type: CourseSection
 title: Syllabus and Assignments
+type: CourseSection
 uid: d4987a4b-f116-2bb9-f68d-1f3a0edd60b6
 ---
 

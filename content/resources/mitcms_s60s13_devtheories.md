@@ -6,10 +6,10 @@ file: /media/courses/cms-s60-technopanics-moral-panics-about-technology-spring-2
 file_type: application/pdf
 learning_resource_types:
 - Readings
-ocw_type: OCWFile
 parent_title: Calendar and Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Different Perspectives on Deviance
+type: OCWFile
 uid: af94c7fa-fc5c-b427-addb-8af111c433bb
 ---

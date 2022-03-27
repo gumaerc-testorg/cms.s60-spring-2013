@@ -5,10 +5,10 @@ file: /media/courses/cms-s60-technopanics-moral-panics-about-technology-spring-2
 file_type: application/pdf
 learning_resource_types:
 - Readings
-ocw_type: OCWFile
 parent_title: Calendar and Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Midterm Assignment
+type: OCWFile
 uid: d4bb23db-f84f-673d-71d4-81471867aa47
 ---
