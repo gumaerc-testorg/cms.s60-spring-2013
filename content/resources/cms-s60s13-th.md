@@ -2,7 +2,7 @@
 content_type: resource
 description: Detail of the photograph "Anonymous Hacker." Original photograph by Brian
   Klug on flickr.
-file: /media/courses/cms-s60-technopanics-moral-panics-about-technology-spring-2013/5302d662fbd36bb6768990eec70b6680_CMS-S60s13-th.jpg
+file: /courses/cms-s60-technopanics-moral-panics-about-technology-spring-2013/5302d662fbd36bb6768990eec70b6680_CMS-S60s13-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Detail of the photograph "Anonymous Hacker." (Original photograph by [Brian
@@ -11,8 +11,10 @@ image_metadata:
   image-alt: Disguised by the mask of Guy Fawkes, the Anonymous Hacker peers at his
     laptop screen through black glasses.
 learning_resource_types: []
+ocw_type: ''
 resourcetype: Image
 title: Anonymous Hacker
-type: OCWImage
 uid: 5302d662-fbd3-6bb6-7689-90eec70b6680
 ---
+Detail of the photograph "Anonymous Hacker." Original photograph by Brian Klug on flickr.
+
