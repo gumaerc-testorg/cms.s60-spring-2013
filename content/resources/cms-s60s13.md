@@ -11,10 +11,10 @@ image_metadata:
   image-alt: Disguised by the mask of Guy Fawkes, the Anonymous Hacker peers at his
     laptop screen through black glasses.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 resourcetype: Image
 title: Anonymous Hacker
 uid: bcc9c6bd-5eab-321a-cbd3-3c9596ab631d
 ---
 Detail of the photograph "Anonymous Hacker." Original photograph by Brian Klug on flickr.
-

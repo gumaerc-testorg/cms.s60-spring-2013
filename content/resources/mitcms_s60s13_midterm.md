@@ -5,6 +5,7 @@ file: /courses/cms-s60-technopanics-moral-panics-about-technology-spring-2013/d4
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 parent_title: Calendar and Readings
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: Midterm Assignment
 uid: d4bb23db-f84f-673d-71d4-81471867aa47
 ---
 Instructions for a midterm assignment on moral panics about technology.
-

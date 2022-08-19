@@ -6,6 +6,7 @@ file: /courses/cms-s60-technopanics-moral-panics-about-technology-spring-2013/af
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 parent_title: Calendar and Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Different Perspectives on Deviance
 uid: af94c7fa-fc5c-b427-addb-8af111c433bb
 ---
 Handout on the different perspectives on deviance taken by sociobiologists, psychologists, and sociologists.
-
