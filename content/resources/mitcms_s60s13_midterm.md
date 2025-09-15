@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Instructions for a midterm assignment on moral panics about technology.
-file: /courses/cms-s60-technopanics-moral-panics-about-technology-spring-2013/d4bb23dbf84f673d71d481471867aa47_MITCMS_S60S13_Midterm.pdf
+file: /ol-ocw-studio-app/courses/cms-s60-technopanics-moral-panics-about-technology-spring-2013/d4bb23dbf84f673d71d481471867aa47_MITCMS_S60S13_Midterm.pdf
+file_size: 95725
 file_type: application/pdf
 learning_resource_types:
 - Readings

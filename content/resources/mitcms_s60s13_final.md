@@ -2,7 +2,8 @@
 content_type: resource
 description: Guidelines and instructions for a final research paper on moral panics
   about technology.
-file: /courses/cms-s60-technopanics-moral-panics-about-technology-spring-2013/65611f080266c5ed4dbf34c010a74fe4_MITCMS_S60S13_Final.pdf
+file: /ol-ocw-studio-app/courses/cms-s60-technopanics-moral-panics-about-technology-spring-2013/65611f080266c5ed4dbf34c010a74fe4_MITCMS_S60S13_Final.pdf
+file_size: 88849
 file_type: application/pdf
 learning_resource_types:
 - Readings

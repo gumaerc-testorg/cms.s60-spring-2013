@@ -2,7 +2,8 @@
 content_type: resource
 description: Detail of the photograph "Anonymous Hacker." Original photograph by Brian
   Klug on flickr.
-file: /courses/cms-s60-technopanics-moral-panics-about-technology-spring-2013/5302d662fbd36bb6768990eec70b6680_CMS-S60s13-th.jpg
+file: /ol-ocw-studio-app/courses/cms-s60-technopanics-moral-panics-about-technology-spring-2013/5302d662fbd36bb6768990eec70b6680_CMS-S60s13-th.jpg
+file_size: 8496
 file_type: image/jpeg
 image_metadata:
   caption: Detail of the photograph "Anonymous Hacker." (Original photograph by [Brian
