@@ -100,6 +100,6 @@ There is no required textbook for this course. Readings will be made available o
 Academic Integrity and Plagiarism
 ---------------------------------
 
-Please familiarize yourself with MIT's policies on [academic integrity](http://web.mit.edu/academicintegrity/index.html). Students will be expected to adhere to these policies at all times. 
+Please familiarize yourself with MIT's policies on {{% resource_link "79272176-251b-4275-b5b0-29df3e470e92" "academic integrity" %}}. Students will be expected to adhere to these policies at all times. 
 
-Additionally, MIT's Writing & Communication Center provides guidelines about how to [avoid plagiarism](http://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/). Please read these in their entirety. Plagiarism is a serious offense and will be treated as such. Any student found to be plagiarizing will receive an automatic "F" on the assignment and may face other consequences.
+Additionally, MIT's Writing & Communication Center provides guidelines about how to {{% resource_link "3e02cb33-eccb-4ed0-b211-f4d49c77d388" "avoid plagiarism" %}}. Please read these in their entirety. Plagiarism is a serious offense and will be treated as such. Any student found to be plagiarizing will receive an automatic "F" on the assignment and may face other consequences.
