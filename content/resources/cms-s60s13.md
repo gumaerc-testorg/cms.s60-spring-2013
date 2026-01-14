@@ -6,8 +6,8 @@ file: /ol-ocw-studio-app/courses/cms-s60-technopanics-moral-panics-about-technol
 file_size: 69342
 file_type: image/jpeg
 image_metadata:
-  caption: Detail of the photograph "Anonymous Hacker." (Original photograph by {{%
-    resource_link "612ab145-a346-4340-9689-a2e455338066" "Brian Klug" %}} on flickr.)
+  caption: Detail of the photograph "Anonymous Hacker." (Original photograph by [Brian
+    Klug](http://www.flickr.com/photos/brianklug/6870002408/) on flickr.)
   credit: ''
   image-alt: Disguised by the mask of Guy Fawkes, the Anonymous Hacker peers at his
     laptop screen through black glasses.
